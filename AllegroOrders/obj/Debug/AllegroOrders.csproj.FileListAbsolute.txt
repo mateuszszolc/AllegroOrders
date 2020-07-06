@@ -1,0 +1,11 @@
+C:\Users\mateu\source\repos\AllegroOrders\AllegroOrders\bin\Debug\AllegroOrders.exe.config
+C:\Users\mateu\source\repos\AllegroOrders\AllegroOrders\bin\Debug\AllegroOrders.exe
+C:\Users\mateu\source\repos\AllegroOrders\AllegroOrders\bin\Debug\AllegroOrders.pdb
+C:\Users\mateu\source\repos\AllegroOrders\AllegroOrders\bin\Debug\RestSharp.dll
+C:\Users\mateu\source\repos\AllegroOrders\AllegroOrders\bin\Debug\RestSharp.xml
+C:\Users\mateu\source\repos\AllegroOrders\AllegroOrders\obj\Debug\AllegroOrders.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\AllegroOrders\AllegroOrders\obj\Debug\AllegroOrders.csproj.CopyComplete
+C:\Users\mateu\source\repos\AllegroOrders\AllegroOrders\obj\Debug\AllegroOrders.exe
+C:\Users\mateu\source\repos\AllegroOrders\AllegroOrders\obj\Debug\AllegroOrders.pdb
+C:\Users\mateu\source\repos\AllegroOrders\AllegroOrders\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mateu\source\repos\AllegroOrders\AllegroOrders\bin\Debug\Newtonsoft.Json.xml
