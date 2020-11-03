@@ -11,7 +11,7 @@ namespace AllegroOrders.Helpers
     public static class SD
     {
         public static readonly string clientID = "client_id";
-        public static readonly string clientSecret = "vEmri8n5a2gEYU9EsZJyFN7aRUQsVjTcd11nyfRqrt4VlJkhxwmXLHeqVDJeZ3gK";
+        public static readonly string clientSecret = "client_Secret";
         public static readonly string deviceAuth = "https://allegro.pl.allegrosandbox.pl/auth/oauth/device";
         public static readonly string tokenUrl = "https://allegro.pl.allegrosandbox.pl/auth/oauth/token?grant_type=urn%3Aietf%3Aparams%3Aoauth%3Agrant-type%3Adevice_code&device_code=";
         public static readonly string offers = "https://api.allegro.pl.allegrosandbox.pl/offers/listing";
